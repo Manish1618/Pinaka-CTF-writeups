@@ -1,0 +1,23 @@
+$ python -I stage2_garden.py ~/Downloads/05-Ashokavana
+== route ledger ==
+  dropping poisoned edge 0-1 (time -999)
+  garden 0: 90
+  garden 1: 300
+  garden 2: 165  <- match
+  garden 3: 255
+  garden 4: 165.6  <- decoy
+  garden 5: 120
+  measured: 165.0
+== tower clocks ==
+  tower 0: dist=223.607  recorded=74.9056  skew=0.37
+  tower 1: dist=259.422  recorded=85.95415  skew=-0.52
+  tower 2: dist=218.403  recorded=73.0111  skew=0.21
+== TDOA ==
+  corrected arrivals {0: 107.63149999999999, 1: 96.09109}
+  d0 - d1 = 34.621 m
+  garden 0: d0-d1 =  100.975  off by  66.353
+  garden 1: d0-d1 = -235.380  off by 270.001
+  garden 2: d0-d1 =   34.621  off by   0.000  <- on hyperbola
+  garden 3: d0-d1 =   34.621  off by   0.000  <- on hyperbola
+  garden 4: d0-d1 = -119.973  off by 154.594
+  garden 5: d0-d1 =  -91.752  off by 126.373

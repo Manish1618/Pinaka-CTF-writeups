@@ -1,0 +1,16 @@
+$ python -I stage1_decode.py ~/Downloads/05-Ashokavana
+== survey_project.pinx ==
+  INTR  offset=56    size=34
+  IMGS  offset=90    size=8232
+  PT3D  offset=8322  size=1516
+  CKSM  offset=9838  size=4
+  CKSM stored=000c4eb3  byte-sum(56..9838)=000c4eb3  -> OK
+  INTR fx=0.0 fy=0.0 cx=1500.0 cy=1000.0   <- focal length zeroed
+  IMGS 16 images, 611 observations
+  image 10: rvec=(0.0, 0.0, 0.0) C=(0.0, 0.0, 0.0)   <- key image pose zeroed
+  PT3D 54 points (ids 0..53)
+== lidar_key.bin ==
+  LPCD 14 points, ids 40..53
+  40: lidar=(5.7, 0.001, -1.796)  survey=(65.83, -46.48, 15.9)
+  44: lidar=(0.004, 0.0, 4.198)  survey=(60.68, -42.54, 21.92)
+  49: lidar=(0.004, -0.004, -1.797)  survey=(61.44, -42.47, 16.11)

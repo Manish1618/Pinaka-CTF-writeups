@@ -1,0 +1,43 @@
+PINAKA CTF 2026 - WRITEUPS
+40 challenges
+==============================================================================================================
+01  A02    Gurukul - The Silent Instruction                 PINAKA{gurukul_the_silent_instruction_is_sounded}
+02  A03    Vishvamitra - The Broken Invocation              PINAKA{vishvamitra_bala_atibala_one_syllable_unbound}
+03  A04    Bala and Atibala - The Forgotten State           PINAKA{bala_atibala_the_flattened_record_forgets}
+04  A05    Tataka Vana - The Corrupted Forest               PINAKA{tataka_vana_one_route_from_the_wreckage}
+05  A06    Siddhashrama - The Unbroken Vigil                PINAKA{siddhashrama_the_vigil_has_one_unseen_seam}
+06  M01    Ahalya - The Petrified Memory                    PINAKA{ahalya_awakens_when_her_last_committed_memory_is_read_back_whole}
+07  M02    Janaka's Court - The False Witness               PINAKA{janaka_false_witness_the_question_asked_before_the_answer}
+08  M03    Pinaka - The Impossible Bow                      PINAKA{one_true_draw_bends_shivas_bow_and_rama_wins_mithila}
+09  M04    Dhanurbhanga - The Fractured Invariant           PINAKA{dhanurbhanga_a_single_uint64_wrap_shatters_shivas_unbreakable_bow}
+10  M05    Vaidehi - The Sealed Covenant                    PINAKA{one_session_one_nonce_the_council_seal_undone}
+11  M06    Bhargava's Challenge - The Bow Beyond the Bow    PINAKA{the_sharnga_strung_upon_the_pinaka_looses_the_vaishnava_astra}
+12  V02    Chitrakuta - The Vanishing Footprints            PINAKA{chitrakuta_vanishing_footprints_exact_projective_geometry}
+13  V03    Panchavati - The Fifth Boundary                  PINAKA{lakshman_rekha_ward_token_breaches_the_boundary}
+14  V04    Maya Mriga - The Golden Illusion                 PINAKA{maricha_golden_deer_projection_reveals_the_captor}
+15  V06    Jatayu - Echoes of the Fallen                    PINAKA{jatayu_echoes_of_the_fallen_three_timebases_one_truth}
+16  K01    Hanuman - The Unknown Messenger                  PINAKA{kishkindha_the_exile_meets_the_outcast_king}
+17  K02    Sugriva's Covenant - The Divided Oath            PINAKA{sugriva_divided_oath_seals_scattered_across_revisions}
+18  K03    Vali - The Hidden Arrow                          PINAKA{vali_vadha_the_arrow_from_concealment}
+19  K05    Sampati - The Hundred-Yojana Sight               PINAKA{sampati_shatayojana_drishti_lanka}
+20  K06    Jambavan - The Forgotten Strength                PINAKA{jambavan_forgotten_strength_learned_from_the_oracle}
+21  S02    Ashokavana - The Veiled Sanctuary                PINAKA{setu_bandhan_veiled_sanctuary_fused_recon_and_rations}
+22  S04    Vibhishana - The Oath of Refuge                  PINAKA{vibhishana_sharanagati_session_bound_identity_unbound}
+23  S05    Nala's Blueprint - The Secret Geometry           PINAKA{nala_blueprint_ecc_geometry_and_nonce_reuse}
+24  S06    Setubandha - The Impossible Crossing             PINAKA{setu_bandha_finality_vs_recovery}
+25  L01    Angada - The Unshaken Oath                       PINAKA{angada_the_unshaken_oath}
+26  L02    Kumbhakarna - The Sleepless Curse                PINAKA{kumbhakarna_six_drumbeats_pierce_the_sleep}
+27  L03    Indrajit - The Invisible War                     PINAKA{indrajit_the_invisible_war}
+28  L05    The Last Astra - An Unprovable Command           PINAKA{the_last_astra_an_unprovable_command}
+29  L06    Dashanana - The Eleventh Truth                   PINAKA{ten_heads_agreed_on_a_truth_that_never_was}
+30  WEB    Kush Astra Yuddha (Kakbhushundi)                 Flag{Kush_Br4hm4str4_D4sh4n4n_V4dh_a8f21177cd57037b11961d87}
+31  WEB    Feedback guys                                    CyberHx{th4nk_y0u_f0r_th3_f33dback}
+32  STEG   Agni Pariksha                                    PINAKA{gupt4_l1p1_4gn1_s4ty4m}
+33  FOR    Jamvant                                          PINAKA{JAI_SHR1_R4M}
+34  FOR    Jatayu's Last Stand                              PINAKA{jatayu_saw_what_th3_r3plays_c0uld_n0t_RAVANA_T0OK_SITA}
+35  OSINT  Ravana's Ten Heads - Final Battle                PinakaCTF{B4535_R_C0V3R3D}
+36  OSINT  The Social media                                 CyberHx{KuroFlare}
+37  OSINT  A message from Author (Kindle Reader)            CyberHX{y0u_d0nt_l34rn_l1nux_y0u_t4k3_c0ntr0l}
+38  OSINT  Ashoka Vatika                                    PINAKA{4shoka_v4tika_tr1angulat3d_past_r0lling_shutter_and_cl0ck_sk3w}
+39  MISC   Welcome to PINAKA                                PinakaCTF{cur10517y_unl0ck5_7h3_g473}
+40  MISC   The Divine Bow                                   PINAKA{tr1y4mbak4_k4rmuk4_bh4nj4k4_r4m}

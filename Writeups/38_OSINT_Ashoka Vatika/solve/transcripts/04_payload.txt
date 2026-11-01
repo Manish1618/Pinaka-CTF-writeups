@@ -1,0 +1,8 @@
+$ python -I stage4_payload.py ~/Downloads/05-Ashokavana ba_result.pkl submission.json
+scale check: |L0L1| template=105.1023 m  metric=105.01623 m  k=0.9992
+city->F affine: rms=0.036 m  det(M)=-0.1780  (negative = mirrored)
+  M=[[-0.08488, -0.41332], [-0.41336, 0.08465]]  t=[16.032, 295.335]  z_off=-2.0082
+key image 10: C=[29.8869, -47.2485, 27.8152]  quat(w,x,y,z)=[0.5047, 0.81683, 0.23738, -0.14738]
+altitude check: camera datum=44.984 m  supplied=44.9442 m  diff=4.0 cm
+template origin datum: 17.169 m
+wrote submission.json

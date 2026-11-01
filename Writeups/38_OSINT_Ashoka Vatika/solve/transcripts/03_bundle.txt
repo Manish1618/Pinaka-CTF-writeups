@@ -1,0 +1,12 @@
+$ python -I stage3_bundle.py ~/Downloads/05-Ashokavana ba_result.pkl
+survey -> lidar template similarity: scale=0.9491
+DLT focal per image: min=2277 median=2583 max=2723
+  pinhole            cost=  4233.64  mean err=2.961px  max=11.94px  (1s)
+  + k1,k2            cost=   513.49  mean err=0.987px  max=8.46px  (0s)
+  + p1,p2            cost=   331.69  mean err=0.705px  max=8.38px  (0s)
+  + rolling shutter  cost=    39.55  mean err=0.315px  max=0.99px  (2s)
+focal f=2648.70  k1=-0.08606 k2=0.02238 p1=0.000997 p2=-0.001544
+  image  9: mean err 0.291px  |v|=0.484 |w|=0.0017
+  image 10: mean err 0.268px  |v|=2.473 |w|=0.0500
+  image 11: mean err 0.361px  |v|=0.652 |w|=0.0140
+saved ba_result.pkl

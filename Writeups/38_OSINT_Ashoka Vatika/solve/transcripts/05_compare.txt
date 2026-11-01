@@ -1,0 +1,11 @@
+$ python -I stage5_compare.py submission.json accepted_payload.json
+== this solve vs. previously accepted payload ==
+  garden_id    2 vs 2
+  clock_skews  max |diff| = 0.00000
+  M            max |diff| = 0.00034
+  t            max |diff| = 0.24152
+  z_off        max |diff| = 0.00472
+  pose.C       max |diff| = 0.00195
+  pose.quat    max |diff| = 0.00002
+  rotation difference: 0.0024 deg
+  camera centre difference: 0.3 cm
