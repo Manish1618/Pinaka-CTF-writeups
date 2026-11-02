@@ -1,6 +1,6 @@
 # PINAKA CTF Writeups
 
-This repository contains writeups for 40 PINAKA CTF challenges. Each challenge folder keeps its original name and contains its writeup plus any screenshots or supporting files.
+This repository contains writeups for 48 PINAKA CTF challenges. Each challenge folder keeps its original name and contains its writeup plus any screenshots or supporting files.
 
 ## Browse the writeups
 
